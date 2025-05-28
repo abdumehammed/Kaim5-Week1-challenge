@@ -1,2 +1,8 @@
-/Data
+Data/
 .github/workflows/unittests.yml
+data/
+*.csv
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
