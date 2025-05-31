@@ -13,3 +13,4 @@ def load_yfinance_data(folder_path):
 def load_news_data(folder_path):
             df = pd.read_csv(os.path.join(folder_path))
             return df
+            
